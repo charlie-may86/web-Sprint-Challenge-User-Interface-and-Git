@@ -71,6 +71,33 @@ p {
     margin: 0 auto;
 }
 
+header {
+    margin: 5% 0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+
+header nav {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container .heroImage {
+
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.heroImage {
+    margin: 3% 0;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
