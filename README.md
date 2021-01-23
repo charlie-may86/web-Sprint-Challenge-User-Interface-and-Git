@@ -33,10 +33,17 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+    Ans: Semantic HTML are the HTML tags that clearly describe what they are. For example, <header> clearly describes itself. <section> is a second example. A counter example is <div>. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+    1. Display:block elements can have a width and a height.
+    2. Display: inline has no line break
 
 3. What are the 4 areas of the box model?
+    1. Content
+    2. Padding
+    3. Border
+    4. Margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
