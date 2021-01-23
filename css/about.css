@@ -96,6 +96,41 @@ nav a {
     margin: 3% 0;
 }
 
+/* about section */
+
+.about {
+    margin: 4% 0;
+    border-bottom: 1px dashed black;
+}
+
+.about p {
+    margin-bottom: 2%;
+}
+
+/* 1st middle section */
+
+.middleTop {
+    display: flex;
+}
+
+.middleTop div {
+    margin: 2% 2%;
+    border-bottom: 1px dashed black;
+}
+
+/* 2nd middle section */
+
+.middleBottom {
+    display: flex;
+}
+
+.middleBottom div {
+    margin: 2% 2%;
+    border-bottom: 1px dashed black;
+}
+
+/* Style the Learn more buttons */
+
 
 
 /* Footer */
