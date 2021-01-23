@@ -131,7 +131,21 @@ nav a {
 
 /* Style the Learn more buttons */
 
+.middleTop a, .middleBottom a {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    padding: 2% 4%;
+    margin: 4% 0;
+}
 
+/* Let's Work Together Section */
+
+.together {
+    margin: 4% 0;
+}
 
 /* Footer */
 footer {
